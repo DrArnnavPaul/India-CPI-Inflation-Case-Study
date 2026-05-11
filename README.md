@@ -1,5 +1,4 @@
 # India-CPI-Inflation-Case-Study
-# 📈 CPI Inflation Trend Analysis – India (2017–2024)
 
 ## 📌 Project Overview
 This project analyzes India’s Consumer Price Index (CPI) trends from 2017 to 2024 using Excel-based data analysis and visualization techniques. The objective of the project is to understand inflation patterns across different sectors, evaluate the impact of COVID-19 and global oil prices on inflation, and identify key contributors to CPI growth in India.
